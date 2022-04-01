@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Green Computing
 - 💞️ I’m looking to collaborate on Python, DevOps or automation related projects
 - 📫 How to reach me  1. Twitter: @swaroopjohn 2. LinkedIn: linkedin.com/in/swaroop-john-pm
-- Couple of my Python projects related to IT Newtorking and IT Security are ready. The initial version will be available in this space soon. Open for any comments, feedback or suggestions!  
+- Couple of my Python projects related to IT Networking and IT Security are ready. The initial version will be available in this space soon. Open for any comments, feedback or suggestions!  
 
 <!---
 swaroop-john/swaroop-john is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
