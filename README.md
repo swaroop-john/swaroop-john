@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swaroop-john
-- 👀 I’m interested in AWS, Cloud Technologies, Linux, Python, IT Networking, IT Security, Game Development 
+- 👀 I’m interested in AWS, Cloud Technologies, DevOps, Linux, Python, IT Networking, IT Security, Game Development 
 - 🌱 I’m currently learning Green Computing
 - 💞️ I’m looking to collaborate on Python, DevOps or automation related projects
 - 📫 How to reach me  1. Twitter: @swaroopjohn 2. LinkedIn: linkedin.com/in/swaroop-john-pm
